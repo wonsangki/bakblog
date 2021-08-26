@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "웹 사이트에 채팅 기능 추가하기"
+date:   2020-09-09 18:34:23 +0900
+categories: 채팅 프로토콜
+---
+
+# 채팅 기능 추가하기 전 공부
+
+## HTTP 실시간 양방향 통신을 위한 프로토콜
+1. [코멧 (Comet)](#코멧-(Comet))  
+   * [폴링 (Polling)](#폴링-(Polling))
+   * [롱폴링 (Long Polling)](#롱폴링-long-polling)
+   * [스트리밍 (Streaming)](#스트리밍-streaming)
+  
+2. [웹소켓 (Websocket)](#웹소켓-(Websocket))  
+### 코멧 (Comet) 방식
+
+#### 폴링 (Polling)
+ 
+#### 롱폴링 (Long Polling)
+
+#### 스트리밍 (Streaming)
+
+### 웹소켓 (Websocket)
+
+### AMQP (Advanced Message Queueing Protocol)
+
+### 기타 각종 참고 할 프로토콜
+
+
+## MQ, MOM and Broker
+
+### 메시지 큐 (Message Queue)
+
+### 메시지 지향 미들웨어 (Message Oriented Middleware)
+
+### 메시지 브로커 (Message Broker)
+
+### 메시지 브로커란?
+
+프로듀서, 메시지 브로커, 컨슈머
+
+
+##### 대충 다 적기
+메시지 큐  
+메시지 지향 미들웨어  
+메시지 브로커    
+RabbitMQ, ActiveMQ (아파치), Kafka (아파치, 뒤에 거 보다 대량 메세지에 좋음)   
+그리고 메시징 프로토콜 AMQP (Advanced Message Queueing Protocol)  
+pub/sub 모델 (Publish/Subscribe 모델)
+
+<a name = "footnote_1">1</a> : 주석 관련 설명 
